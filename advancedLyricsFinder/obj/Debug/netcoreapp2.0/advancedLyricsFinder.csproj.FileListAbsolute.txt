@@ -1,0 +1,11 @@
+/Users/emanuelegrotto/Desktop/Macintosh/MEGASync/Coding Shared /C#/advancedLyricsFinder/bin/Debug/netcoreapp2.0/advancedLyricsFinder.deps.json
+/Users/emanuelegrotto/Desktop/Macintosh/MEGASync/Coding Shared /C#/advancedLyricsFinder/bin/Debug/netcoreapp2.0/advancedLyricsFinder.runtimeconfig.json
+/Users/emanuelegrotto/Desktop/Macintosh/MEGASync/Coding Shared /C#/advancedLyricsFinder/bin/Debug/netcoreapp2.0/advancedLyricsFinder.runtimeconfig.dev.json
+/Users/emanuelegrotto/Desktop/Macintosh/MEGASync/Coding Shared /C#/advancedLyricsFinder/bin/Debug/netcoreapp2.0/advancedLyricsFinder.dll
+/Users/emanuelegrotto/Desktop/Macintosh/MEGASync/Coding Shared /C#/advancedLyricsFinder/bin/Debug/netcoreapp2.0/advancedLyricsFinder.pdb
+/Users/emanuelegrotto/Desktop/Macintosh/MEGASync/Coding Shared /C#/advancedLyricsFinder/obj/Debug/netcoreapp2.0/advancedLyricsFinder.csprojResolveAssemblyReference.cache
+/Users/emanuelegrotto/Desktop/Macintosh/MEGASync/Coding Shared /C#/advancedLyricsFinder/obj/Debug/netcoreapp2.0/advancedLyricsFinder.csproj.CoreCompileInputs.cache
+/Users/emanuelegrotto/Desktop/Macintosh/MEGASync/Coding Shared /C#/advancedLyricsFinder/obj/Debug/netcoreapp2.0/advancedLyricsFinder.AssemblyInfoInputs.cache
+/Users/emanuelegrotto/Desktop/Macintosh/MEGASync/Coding Shared /C#/advancedLyricsFinder/obj/Debug/netcoreapp2.0/advancedLyricsFinder.AssemblyInfo.cs
+/Users/emanuelegrotto/Desktop/Macintosh/MEGASync/Coding Shared /C#/advancedLyricsFinder/obj/Debug/netcoreapp2.0/advancedLyricsFinder.dll
+/Users/emanuelegrotto/Desktop/Macintosh/MEGASync/Coding Shared /C#/advancedLyricsFinder/obj/Debug/netcoreapp2.0/advancedLyricsFinder.pdb
